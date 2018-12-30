@@ -12,7 +12,7 @@ chmod 755 basic_install.sh
 
 ./basic_install.sh
 #
-wget http://raw.githubusercontent.com/marconimp/MyIPTV-Panel/master/install.sh
+wget https://raw.githubusercontent.com/iptvsorocaba/MyIPTV-Panel/master/install.sh
 
 chmod 755 install.sh
 
